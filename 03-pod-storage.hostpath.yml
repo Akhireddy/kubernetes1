@@ -15,4 +15,4 @@ spec:
         # directory location on host
         path: /opt/opt-data
         # this field is optional
-        type: Directory
+        type: DirectoryOrCreate
